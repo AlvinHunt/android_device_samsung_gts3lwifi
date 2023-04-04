@@ -21,24 +21,24 @@
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="awesometic/android_device_samsung_gts3l-common"
+    <project name="AlvinHunt/android_device_samsung_gts3l-common"
         path="device/samsung/gts3l-common"
         revision="lineage-19.1"
         remote="github" />
-    <project name="awesometic/android_device_samsung_gts3lwifi"
+    <project name="AlvinHunt/android_device_samsung_gts3lwifi"
         path="device/samsung/gts3lwifi"
         revision="lineage-19.1"
         remote="github" />
-    <project name="awesometic/android_kernel_samsung_msm8996"
+    <project name="AlvinHunt/android_kernel_samsung_msm8996"
         path="kernel/samsung/msm8996"
         revision="lineage-19.1-caf"
         remote="github" />
-    <project name="awesometic/proprietary_vendor_samsung"
+    <project name="AlvinHunt/proprietary_vendor_samsung"
         path="vendor/samsung"
         revision="lineage-19.1"
         remote="github" />
 
-    <project name="LineageOS/android_hardware_samsung"
+    <project name="PixelExperience-Devices/android_hardware_samsung"
         path="hardware/samsung"
         revision="lineage-19.1"
         remote="github" />
